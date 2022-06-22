@@ -1,0 +1,102 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+title = "Field of View - Blog"
+paginate = 5
+theme = "PaperMod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+enableEmoji = true
+pygmentsUseClasses = true
+defaultContentLanguage = "fr"
+
+
+[outputs]
+    home = [ "HTML", "RSS", "JSON" ]
+
+[languages]
+    [languages.fr]
+        languageName = ":fr:"
+        languageAltTitle = "French"
+        title = "Field of View - Blog"
+
+        [language.fr.taxonomies]
+          category = "categories"
+          tag = "tags"
+          series = "series"
+        
+        [languages.fr.profileMode]
+            enabled = false
+            # title = "Field of View - Blog"
+            # imageUrl: "#"
+            # imageTitle: my image
+            # imageWidth: 120
+            # imageHeight: 120
+            # subtitle = "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            [[languages.fr.profileMode.buttons]]
+                name = "Blog"
+                url = "posts"
+            [[languages.fr.profileMode.buttons]]
+                name = "Tags"
+                url = "tags"
+        [languages.fr.menu]
+            [[languages.fr.menu.main]]
+                name = "Archive"
+                url = "archives/"
+                weight = 5
+            [[languages.fr.menu.main]]
+                name = "Recherche"
+                url = "search/"
+                weight = 10
+            [[languages.fr.menu.main]]
+                name = "Tags"
+                url = "tags/"
+                weight = 10
+            [[languages.fr.menu.main]]
+                name = "Catégories"
+                url = "categories/"
+                weight = 10
+
+[params]
+    description = "Field of View - Blog"
+    author = [ "Yohann", "Quentin", "Paul" ]
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = false
+    ShowWordCount = true
+    ShowRssButtonInSectionTermList = true
+    UseHugoToc = true
+    disableSpecial1stPost = false
+    disableScrollToTop = false
+    comments = false
+    hidemeta = false
+    hideSummary = false
+    showtoc = false
+    tocopen = false
+
+    [params.profileMode]
+        enabled = false
+        title = "PaperMod"
+        imageUrl = "#"
+        imageTitle = "my image"
+        # imageWidth: 120
+        # imageHeight: 120
+        [[params.profileMode.buttons]]
+            name = "Archives"
+            url = "archives"
+        [[params.profileMode.buttons]]
+            name = "Tags"
+            url = "tags"
+
+    [params.homeInfoParams]
+        Title = "Field of View"
+        Content = "Le podcast jeu vidéo présenté par trois passionés. Rejoignez Yohann, Quentin, et Paul pour des débats autour du jeu vidéo et ses problématiques !"
+
+    [[params.socialIcons]]
+        name = "Twitter"
+        url = "https://twitter.com/FOV_Podcast"
+
+    [[params.socialIcons]]
+        name = "RsS"
+        url = "index.xml"
