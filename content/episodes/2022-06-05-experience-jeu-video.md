@@ -2,11 +2,104 @@
 title: "De l'expérience du jeu vidéo"
 date: 2022-06-05T15:00:00+02:00
 draft: false
+showToc: true
+TocOpen: false
+UseHugoToc: true
 summary: "Yohann, Paul, et Quentin débattent de l'impact de l'habitude sur l'expérience de jeu (et autres)"
 categories: ["podcast"]
-tags: ["experience", "habitude", "débat"]
+tags: ["experience", "habitude", "débat", "pokémon"]
 ---
 
-Voici les jeux dont nous avons parlé pendant cet épisode:
- - 01:23 - FIXME
- - 02:34 - FIXME
+## Références externes
+
+### L'impact de l'habitude sur l'expérience de jeu
+
+- 05:00 - [Répartition des boutons sur une manette Xbox](https://support.xbox.com/en-US/help/hardware-network/controller/xbox-one-wireless-controller)
+- 05:55 - [Répartition des boutons sur une manette de Nintendo Switch](https://en-americas-support.nintendo.com/app/answers/detail/a_id/22634/~/joy-con-controller-diagram)
+- 07:10 - [_The Legend of Zelda: Breath of the Wild_ (2017)](https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild)
+- 08:40 - [Jeu vidéo indépendant](https://fr.wikipedia.org/wiki/Jeu_vid%C3%A9o_ind%C3%A9pendant)
+- 08:55 - [Japanese Role-Playing Game (JRPG)](https://en.wikipedia.org/wiki/History_of_Eastern_role-playing_video_games)
+- 09:00 - [_The Legend of Heroes: Trails of Cold Steel_ (2013)](https://fr.wikipedia.org/wiki/The_Legend_of_Heroes:_Trails_of_Cold_Steel)
+- 09:30 - [Game jam](https://fr.wikipedia.org/wiki/Game_jam)
+- 10:30 - [_Yakuza_ (2005-)](https://fr.wikipedia.org/wiki/Yakuza_(s%C3%A9rie_de_jeux_vid%C3%A9o))
+- 11:35 - [_Yakuza: Like a Dragon_ (2020)](https://fr.wikipedia.org/wiki/Yakuza:_Like_a_Dragon)
+- 12:10 - [_Far Cry_ (2004-)](https://fr.wikipedia.org/wiki/Far_Cry)
+- 12:10 - [_Assassin's Creed_ (2007-)](https://fr.wikipedia.org/wiki/Assassin%27s_Creed)
+- 12:20 - [_Elden Ring_ (2022)](https://fr.wikipedia.org/wiki/Elden_Ring)
+- 12:50 - [_FIFA_ (1993-2021)](https://fr.wikipedia.org/wiki/FIFA_(s%C3%A9rie_de_jeux_vid%C3%A9o))
+- 12:54 - [_Call of Duty_ (2003-)](https://fr.wikipedia.org/wiki/Call_of_Duty)
+- 14:10 - [Arbre de compétences](https://en.wiktionary.org/wiki/skill_tree)
+- 14:25 - [_Horizon Forbidden West_ (2022)](https://fr.wikipedia.org/wiki/Horizon_Forbidden_West)
+- 14:50 - [_Assassin's Creed Syndicate_ (2015)](https://fr.wikipedia.org/wiki/Assassin%27s_Creed_Syndicate)
+- 15:40 - [Jeu à monde ouvert](https://fr.wikipedia.org/wiki/Monde_ouvert)
+- 17:25 - [_Cyberpunk 2077_ (2020)](https://fr.wikipedia.org/wiki/Cyberpunk_2077)
+- 17:30 - [_Grand Theft Auto_ (GTA) (1997)](https://fr.wikipedia.org/wiki/Grand_Theft_Auto)
+- 18:58 - [_Spyro the Dragon_ (1998-2018)](https://fr.wikipedia.org/wiki/Spyro_the_Dragon)
+- 19:25 - [_MediEvil_ (1998)](https://fr.wikipedia.org/wiki/MediEvil)
+- 19:50 - [_Fable_ (2004-2017)](https://fr.wikipedia.org/wiki/Fable_(s%C3%A9rie_de_jeux_vid%C3%A9o))
+- 19:55 - [State of Play](https://www.playstation.com/fr-fr/state-of-play/)
+- 19:55 - [_Dragon Age_ (2009-)](https://fr.wikipedia.org/wiki/Dragon_Age)
+- 20:28 - ["looter"](https://en.wiktionary.org/wiki/loot#Noun_2)
+- 21:00 - [_Yooka-Laylee_ (2017)](https://fr.wikipedia.org/wiki/Yooka-Laylee)
+- 21:05 - [_Banjo-Kazooie_ (1998)](https://fr.wikipedia.org/wiki/Banjo-Kazooie_(jeu_vid%C3%A9o))
+- 21:10 - [_Kao the Kangaroo_ (2022)](https://fr.wikipedia.org/wiki/Kao_the_Kangaroo_(jeu_vid%C3%A9o,_2022))
+- 21:30 - [_Sonic Frontiers_ (prévu 2022)](https://fr.wikipedia.org/wiki/Sonic_Frontiers)
+- 22:10 - [_Crash Bandicoot_ (1996-)](https://fr.wikipedia.org/wiki/Crash_Bandicoot)
+- 25:20 - [_Persona_ (1996-)](https://fr.wikipedia.org/wiki/Persona_(s%C3%A9rie_de_jeux_vid%C3%A9o))
+- 25:35 - ["grinder"](https://en.wikipedia.org/wiki/Grinding_(video_games))
+- 25:40 - ["gear check"](https://wowwiki-archive.fandom.com/wiki/Gear_check)
+- 26:30 - [_Outer Wilds_ (2019)](https://fr.wikipedia.org/wiki/Outer_Wilds)
+- 27:10 - [_Donjons et Dragons_ (DnD)](https://fr.wikipedia.org/wiki/Donjons_et_Dragons)
+- 27:50 - [_Halo Infinite_ (2021)](https://fr.wikipedia.org/wiki/Halo_Infinite)
+- 28:45 - [_Portal_ (2007-2011)](https://en.wikipedia.org/wiki/Portal_(series))
+- 30:25 - [_OneShot_ (2014)](https://en.wikipedia.org/wiki/OneShot)
+- 30:30 - [RPG Maker](https://fr.wikipedia.org/wiki/RPG_Maker)
+- 31:40 - [_The Sojourn_ (2020)](https://store.steampowered.com/app/794960/The_Sojourn/)
+- 32:35 - [_Maquette_ (2021)](https://store.steampowered.com/app/762840/Maquette/?l=french)
+- 32:45 - [Annapurna Interactive](https://fr.wikipedia.org/wiki/Annapurna_Interactive)
+- 35:10 - [_Patrick's Parabox_ (2022)](https://en.wikipedia.org/wiki/Patrick%27s_Parabox)
+- 35:50 - [_Stephen's Sausage Roll_ (2016)](https://fr.wikipedia.org/wiki/Stephen%27s_Sausage_Roll)
+- 36:10 - [_A Good Snowman Is Hard To Build_ (2015)](https://store.steampowered.com/app/316610/A_Good_Snowman_Is_Hard_To_Build/)
+- 36:40 - [_Shotgun King: The Final Checkmate_ (2022)](https://punkcake.itch.io/shotgun-king)
+- 37:20 - [itch.io](https://itch.io/)
+- 37:30 - [_Super Is Hot_ (2022)](https://pyrofoux.itch.io/super-is-hot)
+- 37:30 - [_Baba Is You_ (2019)](https://fr.wikipedia.org/wiki/Baba_Is_You)
+- 37:30 - [_SUPERHOT_ (2016)](https://fr.wikipedia.org/wiki/Superhot)
+
+
+### Carte blanche: Le nouveau trailer de Pokémon Scarlet & Violet
+
+- 38:40 - [_Monster Sanctuary_ (2020)](https://store.steampowered.com/app/814370/Monster_Sanctuary/)
+- 38:50 - [_Nexomon_ (2020)](https://store.steampowered.com/app/1191580/Nexomon/)
+- 39:00 - [_Palworld_ (prévu 2022)](https://store.steampowered.com/app/1623730/Palworld/)
+- 39:05 - [_Temtem_ (2020)](https://store.steampowered.com/app/745920/Temtem/)
+- 39:30 - [_Coromon_ (2022)](https://store.steampowered.com/app/1218210/Coromon/?l=french)
+- 41:00 - [_Pokémon_ (1996-)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_(s%C3%A9rie_de_jeux_vid%C3%A9o))
+- 42:00 - [Deuxième bande annonce de la 9ème génération de Pokémon](https://youtu.be/9ruBLEEqw_c)
+- 42:15 - [Lechonk](https://bulbapedia.bulbagarden.net/wiki/Lechonk_(Pok%C3%A9mon))
+- 43:30 - [Article de VG247 sur les professeurs Pokémon](https://www.vg247.com/pokemon-violet-scarlet-trailer-june-2022)
+- 43:40 - [_Pokémon Sword & Shield_ (2019)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_%C3%89p%C3%A9e_et_Bouclier)
+- 43:30 - [_Pokémon Legens: Arceus_ (2022)](https://fr.wikipedia.org/wiki/L%C3%A9gendes_Pok%C3%A9mon_:_Arceus)
+- 46:00 - [_Pokémon HeartGold & SoulSilver_ (2010)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Or_HeartGold_et_Argent_SoulSilver)
+- 46:20 - [_Pokémon Rubis & Saphir_ (2002)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Rubis_et_Saphir)
+- 46:40 - [_Pokémon Noir & Blanc_ (2010)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Noir_et_Blanc)
+- 46:40 - [_Pokémon X & Y_ (2013)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_X_et_Y)
+- 48:05 - [_Pokémon Soleil & Lune_ (2016)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Soleil_et_Lune)
+- 49:10 - [Grand méchant de Pokémon Sword & Shield](https://villains.fandom.com/wiki/Chairman_Rose)
+- 49:20 - [Les frères aux cheveux inhabituels de Pokémon Sword & Shield](https://villains.fandom.com/wiki/Sordward_and_Shielbert)
+- 50:00 - ["un waypoint"](https://www.giantbomb.com/waypoint/3015-4942)
+- 53:00 - [Game Freak](https://fr.wikipedia.org/wiki/Game_Freak)
+- 56:40 - [Pokédex régional](https://bulbapedia.bulbagarden.net/wiki/Regional_Pok%C3%A9dex)
+- 56:48 - [Mimitoss](https://www.pokepedia.fr/Mimitoss)
+- 57:20 - [_Pokémon Ultra Sun & Ultra Moon_ (2017)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Ultra-Soleil_et_Ultra-Lune)
+- 57:30 - [_Pokémon Noir 2 & Blanc 2_ (2012)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Noir_2_et_Blanc_2)
+- 59:50 - [_Monster Hunter Stories 2: Wings of Ruin_ (2021)](https://fr.wikipedia.org/wiki/Monster_Hunter_Stories_2:_Wings_of_Ruin)
+- 59:55 - [_Spectrobes_ (2007-2009)](https://fr.wikipedia.org/wiki/Spectrobes)
+- 1:01:05 - [_Final Fantasy_ (FF) (1987-)](https://fr.wikipedia.org/wiki/Final_Fantasy)
+- 1:02:10 - [_Pokémon Ranger_ (2006-2010)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Ranger)
+- 1:02:25 - [Multi Exp](https://www.pokepedia.fr/Multi_Exp)
+- 1:03:05 - ["wipe"](https://www.dictionary.com/browse/wipe#:~:text=(in%20a%20video%20game)%20a,killed%3A%20a%20total%20party%20wipe.)
+- 1:04:55 - ["des mobs"](https://fr.wikipedia.org/wiki/MOB#:~:text=dans%20les%20MMORPG%2C%20le%20mob,que%20le%20joueur%20peut%20attaquer.)
+- 1:06:15 - [_Pokémon Donjon Mystère_ (2005-2020)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Donjon_Myst%C3%A8re)
+- 1:06:18 - [_Pokémon Conquest_ (2012)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Conquest)
+- 1:06:20 - [_Pokémon Pinball_ (1999-2003)](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Pinball)
