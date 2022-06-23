@@ -94,6 +94,10 @@ defaultContentLanguage = "fr"
         Content = "Le podcast jeu vidéo présenté par trois passionés. Rejoignez Yohann, Quentin, et Paul pour des débats autour du jeu vidéo et ses problématiques !"
 
     [[params.socialIcons]]
+        name = "Spotify"
+        url = "https://open.spotify.com/show/0qyrV17aWlwoigEX9Gdd9W" 
+
+    [[params.socialIcons]]
         name = "Twitter"
         url = "https://twitter.com/FOV_Podcast"
 
