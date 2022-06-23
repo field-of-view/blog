@@ -1,4 +1,4 @@
-# baseURL = "http://example.org/"
+baseURL = "https://fieldofview.fr/"
 languageCode = "fr-fr"
 title = "Field of View - Blog"
 paginate = 5
